@@ -10,6 +10,7 @@
 конфиг удалил по понятным причинам
 ```
 
-[![видяшка работы ](Oauth/wwwroot/1.mp4)](Oauth/wwwroot/1.mp4)
+[<img src="Oauth/wwwroot/1.mp4" width="600" height="300"
+/>](https://www.youtube.com/embed/APOPm01BVrk)
 
 ![alt text](Oauth/wwwroot/images/i.jpg "мяу")
