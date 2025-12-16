@@ -11,6 +11,6 @@
 ```
 
 [<img src="Oauth/wwwroot/1.mp4" width="600" height="300"
-/>](https://www.youtube.com/embed/APOPm01BVrk)
+/>](1)
 
 ![alt text](Oauth/wwwroot/images/i.jpg "мяу")
