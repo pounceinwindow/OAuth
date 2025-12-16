@@ -11,6 +11,6 @@
 ```
 
 [<img src="Oauth/wwwroot/1.mp4" width="600" height="300"
-/>](1)
+/>](Oauth/wwwroot/1.mp4)
 
 ![alt text](Oauth/wwwroot/images/i.jpg "мяу")
