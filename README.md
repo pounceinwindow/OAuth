@@ -4,13 +4,12 @@
 [вся красота тут](Oauth/Controllers)
 
 
-
+[наглядная демонстрация работы прилагается](Oauth/wwwroot/1.mp4)
 
 ```
 конфиг удалил по понятным причинам
 ```
 
-[<img src="Oauth/wwwroot/1.mp4" width="600" height="300"
-/>](Oauth/wwwroot/1.mp4)
+
 
 ![alt text](Oauth/wwwroot/images/i.jpg "мяу")
